@@ -12,4 +12,4 @@ console.log(birthYear)
 //Altere o valor atribuído à constante birthCity. Faça um console.log(birthCity) novamente! Você saberia explicar por que recebemos uma mensagem de erro? 🤔//
 birthCity = 'Boa Vista'
 console.log(birthCity)
-//NAO SER PODE REATRIBUIR VALORES A CONSTANTES
+//NAO SER PODE REATRIBUIR VALORES A CONSTANTES!//
